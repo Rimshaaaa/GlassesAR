@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heart- Glasses
+* source:	https://sketchfab.com/3d-models/heart-glasses-8e0c9e077d7940ae9a25504d0157aaa0
+* author:	jhowars65 (https://sketchfab.com/jhowars65)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heart- Glasses" (https://sketchfab.com/3d-models/heart-glasses-8e0c9e077d7940ae9a25504d0157aaa0) by jhowars65 (https://sketchfab.com/jhowars65) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
